@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Documents/Project1/Assets/HomeStuff/Construction.unity
+  isLoaded: 1
+  isActive: 1
